@@ -201,6 +201,8 @@ to:
 
 `per lb`
 
+If you see '/lb' just output it as 'lb'.
+
 Do not convert or normalize any other visible unit.
 
 If `$` is visibly written, preserve `$`.
