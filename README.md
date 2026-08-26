@@ -4,6 +4,8 @@ A Claude Code skill for retrieving the latest seafood menu posted by **Beach N S
 
 The skill uses Playwright to inspect recent Facebook posts, identify the appropriate menu-board post, and return the menu as a simple table.
 
+<img src="./assets/seafood-menu.png" width="600" />
+
 ## Usage
 
 ### Get today's menu
